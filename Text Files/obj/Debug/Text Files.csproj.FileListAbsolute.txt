@@ -1,0 +1,18 @@
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\bin\Debug\Text Files.exe.config
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\bin\Debug\Text Files.exe
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\bin\Debug\Text Files.pdb
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\obj\Debug\Text Files.csprojResolveAssemblyReference.cache
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\obj\Debug\Text_Files.Form1.resources
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\obj\Debug\Text_Files.Properties.Resources.resources
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\obj\Debug\Text Files.csproj.GenerateResource.Cache
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\obj\Debug\Text Files.exe
+c:\users\family\documents\visual studio 2015\Projects\Text Files\Text Files\obj\Debug\Text Files.pdb
+C:\charlies school files\POS409\week3\Text Files\bin\Debug\Text Files.exe.config
+C:\charlies school files\POS409\week3\Text Files\bin\Debug\Text Files.exe
+C:\charlies school files\POS409\week3\Text Files\bin\Debug\Text Files.pdb
+C:\charlies school files\POS409\week3\Text Files\obj\Debug\Text Files.csprojResolveAssemblyReference.cache
+C:\charlies school files\POS409\week3\Text Files\obj\Debug\Text_Files.Form1.resources
+C:\charlies school files\POS409\week3\Text Files\obj\Debug\Text_Files.Properties.Resources.resources
+C:\charlies school files\POS409\week3\Text Files\obj\Debug\Text Files.csproj.GenerateResource.Cache
+C:\charlies school files\POS409\week3\Text Files\obj\Debug\Text Files.exe
+C:\charlies school files\POS409\week3\Text Files\obj\Debug\Text Files.pdb

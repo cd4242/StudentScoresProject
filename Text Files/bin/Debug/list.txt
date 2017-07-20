@@ -1,0 +1,4 @@
+sda 32
+ewqe 31
+sda 56
+d 65
